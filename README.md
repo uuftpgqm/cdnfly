@@ -1,4 +1,4 @@
-# cdnfly-kaixin
+# cdnfly
 仅支持CENTOS7
 web目录为云端验证文件，请自行搭建
 
